@@ -28,6 +28,11 @@ warianty pod kreską?", „czy podnieść ceny diety X?".
   przeliczenie gramatur/receptury, albo wycofanie wariantu. Jeśli `menu_fatigue`
   pokazuje też słabe oceny dania w tej diecie — rekomenduj wymianę dania.
 
+## Benchmarki
+Odnoś marżę/food cost do norm z `references/benchmarki.md` (np. food cost
+~30–35% COGS, marża kontrybucyjna ~26–27% przychodu w meal-kit). Zaznacz, że to
+proxy branżowy (gł. HelloFresh), nie dokładna norma diety pudełkowej / PL.
+
 ## Zasady
 - Marża i food cost pochodzą wyłącznie z narzędzi; nie szacuj ręcznie.
 - Zaznacz okno czasowe diet_margin (trailing ~14 dni) — to nie cały miesiąc.

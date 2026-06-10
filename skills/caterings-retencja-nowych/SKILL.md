@@ -24,9 +24,11 @@ pierwszym miesiącem".
   przed końcem pierwszej diety, komunikacja do new_fragile.
 
 ## Benchmarki
-Gdy w playbookach/instrukcjach dostępne są progi branżowe (churn pierwszych 90
-dni, krzywa retencji kohort) — porównaj wynik klienta z normą i nazwij odchylenie.
-Nie podawaj liczb branżowych, których nie masz potwierdzonych.
+Odnoś retencję nowych do norm z `references/benchmarki.md`: pierwszy miesiąc jest
+najostrzejszy (tylko ~57–69% kupuje ponownie w 2. miesiącu → ~30–43% odpada po
+pierwszym zamówieniu), a po ~9–12 mies. retencja ~30%. Nazwij odchylenie klienta
+od normy i zaznacz, że to proxy meal-kit (gł. HelloFresh), nie diety pudełkowej PL.
+Nie podawaj liczb spoza tego pliku jako branżowych.
 
 ## Zasady
 Liczby tylko z narzędzi; przy blokadzie planu pomiń sekcję. Procenty z 1 miejscem.

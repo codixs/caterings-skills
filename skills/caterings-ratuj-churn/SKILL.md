@@ -33,6 +33,11 @@ i nie zgaduj.)
 - **Rekomendacje:** 2–4 akcje (np. „zadzwoń do 12 VIP-ów z listy", „oferta
   wznowienia dla diet kończących się jutro").
 
+## Benchmarki
+Porównuj churn klienta z normami z `references/benchmarki.md` (np. typowy churn
+meal-kit ~8–15%/mc; najostrzejszy pierwszy miesiąc). Nazwij odchylenie, zawsze
+sygnalizując, że to proxy branżowy (meal-kit/HelloFresh), nie dokładna norma PL.
+
 ## Zasady
 - Sortuj po wartości malejąco; wyróżnij segmenty wysokiej wartości.
 - Kwoty w zł z separatorem; bez wymyślania danych.
