@@ -10,6 +10,16 @@ zostają po stronie serwera MCP.
   zamówienia, marża, gotówka, trend, churn).
 - **caterings-ratuj-churn** — priorytetyzowana lista klientów do uratowania.
 - **caterings-marza** — diagnoza marży diet (które dokładają i co z tym zrobić).
+- **caterings-promo** — opłacalność promocji i kodów rabatowych.
+- **caterings-prognoza-zakupy** — prognoza 7 dni → plan zakupów.
+- **caterings-cashflow** — kondycja płatności, zaległości, odzysk gotówki.
+- **caterings-ekspansja** — analiza regionów, gdzie skalować.
+- **caterings-segmenty-akcja** — segmenty klientów (RFM) + akcje per segment.
+- **caterings-multi-marka** — zbiorczy rollup wielu marek (Enterprise).
+- **caterings-retencja-nowych** — retencja świeżo pozyskanych (0–90 dni).
+
+> Wymaga planu **Growth** lub **Enterprise**. Podstawowe playbooki (przegląd CEO,
+> churn, marża) działają też bez instalacji — serwer dostarcza je automatycznie.
 
 ## Instalacja
 
