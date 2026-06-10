@@ -16,7 +16,7 @@ zostają po stronie serwera MCP.
 ### A) Claude Code — marketplace (rekomendowane, z aktualizacjami)
 ```
 /plugin marketplace add codixs/caterings-skills
-/plugin install caterings
+/plugin install caterings@caterings
 ```
 Aktualizacja: `/plugin marketplace update caterings`.
 
