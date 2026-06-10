@@ -1,0 +1,11 @@
+{
+  "name": "caterings",
+  "owner": { "name": "Caterings Analytics" },
+  "plugins": [
+    {
+      "name": "caterings",
+      "source": ".",
+      "description": "Playbooki analityki cateringu dietetycznego: przegląd CEO, ratowanie churnu, diagnoza marży. Cienkie skille orkiestrujące konektor MCP Caterings (formuły liczone po stronie serwera)."
+    }
+  ]
+}
